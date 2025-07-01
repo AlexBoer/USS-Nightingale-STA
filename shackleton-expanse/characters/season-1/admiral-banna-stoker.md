@@ -26,11 +26,6 @@ Admiral Banna Stoker is a short, stocky Human with close-cropped white hair. Her
 *Value2*:: My mission outweighs Starfleet regulations
 *Value3*:: %% My universe is collapsing, and I don't know who to trust %% 
 *Value4*:: %% The voice in my head is asking for help %%
-## Other Portraits
-![[IMG-20250226-Banna Stoker - Background}-1.png|200]]![[IMG-20250226-Banna Stoker - Transparent}.png|200]]![[IMG-20250226-Banna Stoker - Token}.png|200]]
-
-## Statblock
-(Statblock:: ![[IMG-20250308-Banna Stoker}.png|397]])
 
 %%
 PrivateNotes:: [[Notes on Banna Stoker]]
